@@ -1,0 +1,13 @@
+"repositories": {
+	"admin": {
+		"type": "path",
+		"url": "package/admin"
+	},
+	"hooks": {
+		"type": "path",
+		"url": "package/admin-hooks"
+	}
+},
+
+
+composer require bdsoftpro/admin:dev-master
